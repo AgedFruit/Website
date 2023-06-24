@@ -8,8 +8,8 @@ const config: Config = {
     aria: 'My name is James Elrick',
   },
   title: {
-    display: 'Application Delivery Engineer',
-    aria: 'I am an Application Delivery Engineer',
+    display: 'Junior Digital Developer',
+    aria: 'I am a Junior Digital Developer',
   },
   buttons: [
     {
@@ -25,7 +25,7 @@ const config: Config = {
       href: 'https://www.linkedin.com/in/james-elrick-5207a219b/',
     },
     {
-      display: 'Resume',
+      display: 'CV',
       aria: 'View my resume in Google Drive',
       icon: <Resume />,
       href: 'https://drive.google.com/drive/folders/1EYlmJtHXvgFu3X1b_5PRS-bsWcBfdj3J',
